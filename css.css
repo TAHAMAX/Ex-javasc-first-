@@ -1,0 +1,19 @@
+#header
+{
+color:blue;
+font-size: 40px;
+margin: 0 auto;
+width: 500px;
+padding: 20px;
+background-color: purple;
+background-image: url("s.jpeg");
+background-attachment: fixed;
+}
+.header
+{
+color:red;
+font-size: 40px;
+margin: 0 auto;
+padding: 20px;	
+width: 500px;
+}
